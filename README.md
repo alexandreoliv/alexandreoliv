@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-oliv/)
+
 I'm very curious, detail-oriented, and I'm constantly learning new stuff. I also like to get things done. I'm passionate about good music, solo travelling, genetic genealogy, and I'm super interested in the history and sensory analysis of all sorts of beverages, but mostly beer and coffee. I'm also a computer geek.
 
 I had my first contact with programming languages when, at the age of 12, I did a course on Visual Basic and Microsoft Access. On the same year I created my first web pages, when internet was still a novelty. One of them got coverage on national TV, newspapers and magazines. When I was 13 I had my first contact with CSS 2 and JavaScript.
