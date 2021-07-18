@@ -8,7 +8,7 @@ It was clear to me that I wanted to study Computer Science when I grew up. And t
 
 The hospitality industry suffered greatly during the pandemic. I took advantage of the confinement and completed a web development bootcamp on Ironhack. I feel fresh again. Remote working would be a plus as I intend to deliver awesome code from ever-changing locations around the globe.
 
-You can also find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-oliv/)
+You can also find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-oliv/)
 
 <!--
 **alexandreoliv/alexandreoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
