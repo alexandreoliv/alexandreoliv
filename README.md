@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 I'm very curious, detail-oriented, and I'm constantly learning new stuff. I also like to get things done. I'm passionate about good music, solo travelling, genetic genealogy, and I'm super interested in the history and sensory analysis of all sorts of beverages, but mostly beer and coffee. I'm also a computer geek.
 
