@@ -4,7 +4,7 @@ I had my first contact with programming languages when, at the age of 12, I did 
 
 It was clear to me that I wanted to study Computer Science when I grew up. And that's what I did. After completing my undergraduate in Brazil I moved to Germany and many doors opened to me. I travelled to more than 90 countries in five continents, got fascinated by the craft beer renaissance and dedicated some time learning about alcoholic beverages. The beer hobby became a profession.
 
-A few years later, the hospitality industry suffered greatly during the pandemic. I took advantage of the confinement and completed a web development bootcamp on Ironhack. I feel fresh again and I'm currently open for work. Remote working would be a plus as I intend to deliver awesome code from ever-changing locations around the globe. 🌎
+A few years later, the hospitality industry suffered greatly during the pandemic. I took advantage of the confinement and completed a web development bootcamp at Ironhack. I feel fresh again and I'm currently open for work. Remote working would be a plus as I intend to deliver awesome code from ever-changing locations around the globe. 🌎
 
 You can also find me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexandre-oliv/)
 
