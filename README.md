@@ -1,6 +1,6 @@
-Full-stack web developer transitioning back into IT. Can-do attitude. Had first contact with programming languages and created first web pages at the age of 12, followed by a Computer Science undergraduate. Recently graduated from a web development bootcamp at Ironhack.
+Full-stack web developer. I build React projects.
 
-Diverse experience managing customer-oriented craft beer bars, solo travelling to more than 90 countries, writing articles and interviews for music magazines and teaching beer courses.
+Had first contact with programming languages at the age of 12, followed by a Computer Science undergraduate. Recently graduated from a web development bootcamp at Ironhack.
 
 I'm very curious, detail-oriented, and I'm constantly learning new stuff. I also like to get things done.
 
